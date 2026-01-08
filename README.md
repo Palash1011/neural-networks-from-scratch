@@ -19,3 +19,7 @@ The model achieves approximately **98% test accuracy** on MNIST.
 
 ## Files
 - `Neural_Networks_From_Scratch.ipynb` – Training, evaluation, and plots
+## Training Loss
+![Loss](loss.png)
+## Sample Prediction
+![Prediction](prediction.png)
